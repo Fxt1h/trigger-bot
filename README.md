@@ -1,2 +1,2 @@
-# trigger-bot
-idk just a triggerbot for minecraft 1.16.5
+# ezik orospu evlatları için özel olarak tasarlanmış türk adminlerinin bulamadığı ve bulamayacağı trigger bot 
+kullanmayın kardes
